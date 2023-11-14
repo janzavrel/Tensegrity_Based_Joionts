@@ -1,0 +1,137 @@
+<?xml version="1.0" standalone="no"?>
+<svg viewBox="0 0 1024 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" xml:space="preserve" >
+<defs >
+<clipPath id="clipId0" >
+<path d="M0,768 1024,768 1024,0 0,0 z" />
+</clipPath>
+<clipPath id="clipId1" >
+<path d="M164,558 355,558 355,537 164,537 z" />
+</clipPath>
+<clipPath id="clipId2" >
+<path d="M164,377 355,377 355,187 164,187 z" />
+</clipPath>
+<clipPath id="clipId3" >
+<path d="M0,768 1024,768 1024,0 0,0 z" />
+</clipPath>
+</defs>
+<g clip-path="url(#clipId0)" fill="none" stroke="rgb(0,0,0)" stroke-width="0.1" />
+<g clip-path="url(#clipId1)" fill="none" stroke="rgb(0,0,0)" stroke-width="0.1" />
+<g clip-path="url(#clipId1)" fill="none" stroke="rgb(0,0,0)" stroke-width="0.5" >
+<polyline points="347.237,544.437 171.832,544.437 " />
+<polyline points="347.237,550.283 171.832,550.283 " />
+<polyline points="171.832,550.283 171.832,544.437 " />
+<polyline points="347.237,550.283 347.237,544.437 " />
+</g>
+<g clip-path="url(#clipId2)" fill="none" stroke="rgb(0,0,0)" stroke-width="0.1" />
+<g clip-path="url(#clipId2)" fill="none" stroke="rgb(0,0,0)" stroke-width="0.5" >
+<circle cx="212.76" cy="261.567" r="1.87098" />
+<circle cx="265.381" cy="231.186" r="1.87098" />
+<circle cx="300.462" cy="210.932" r="1.87098" />
+<circle cx="265.381" cy="332.455" r="1.87098" />
+<circle cx="212.76" cy="302.074" r="1.87098" />
+<circle cx="300.462" cy="251.44" r="1.87098" />
+<circle cx="300.462" cy="352.709" r="1.87098" />
+<circle cx="300.462" cy="312.201" r="1.87098" />
+<circle cx="177.679" cy="281.821" r="1.87098" />
+<circle cx="259.535" cy="281.821" r="87.7022" />
+</g>
+<g clip-path="url(#clipId3)" fill="none" stroke="rgb(0,0,0)" stroke-width="0.1" />
+<g clip-path="url(#clipId3)" fill="none" stroke="rgb(0,0,0)" stroke-width="0.7" >
+<polyline points="21.9199,681.018 21.9199,86.9818 1002.08,86.9818 1002.08,681.018 21.9199,681.018 " />
+<polyline points="512,692.899 512,681.018 508.57,686.959 515.43,686.959 512,681.018 " />
+<polyline points="512,75.1011 512,86.9818 508.57,81.0414 515.43,81.0414 512,86.9818 " />
+<polyline points="10.0392,384 21.9199,384 15.9796,380.57 15.9796,387.43 21.9199,384 " />
+<polyline points="1013.96,384 1002.08,384 1008.02,380.57 1008.02,387.43 1002.08,384 " />
+<polyline points="133.302,681.018 133.302,685.77 " />
+<polyline points="133.302,86.9818 133.302,82.2295 " />
+<polyline points="259.535,681.018 259.535,685.77 " />
+<polyline points="259.535,86.9818 259.535,82.2295 " />
+<polyline points="385.767,681.018 385.767,685.77 " />
+<polyline points="385.767,86.9818 385.767,82.2295 " />
+<polyline points="638.233,681.018 638.233,685.77 " />
+<polyline points="638.233,86.9818 638.233,82.2295 " />
+<polyline points="764.465,681.018 764.465,685.77 " />
+<polyline points="764.465,86.9818 764.465,82.2295 " />
+<polyline points="890.698,681.018 890.698,685.77 " />
+<polyline points="890.698,86.9818 890.698,82.2295 " />
+</g>
+<g clip-path="url(#clipId3)" fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="0" >
+<text transform="matrix(3.56422 0 -0 3.56422 952.469 85.7929)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >1</text>
+<text transform="matrix(3.56422 0 -0 3.56422 952.469 685.77)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >1</text>
+<text transform="matrix(3.56422 0 -0 3.56422 826.241 85.7935)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >2</text>
+<text transform="matrix(3.56422 0 -0 3.56422 826.241 685.77)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >2</text>
+<text transform="matrix(3.56422 0 -0 3.56422 700.008 85.7935)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >3</text>
+<text transform="matrix(3.56422 0 -0 3.56422 700.008 685.77)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >3</text>
+<text transform="matrix(3.56422 0 -0 3.56422 573.777 85.7937)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >4</text>
+<text transform="matrix(3.56422 0 -0 3.56422 573.777 685.77)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >4</text>
+<text transform="matrix(3.56422 0 -0 3.56422 447.544 85.7937)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >5</text>
+<text transform="matrix(3.56422 0 -0 3.56422 447.544 685.77)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >5</text>
+<text transform="matrix(3.56422 0 -0 3.56422 321.31 85.795)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >6</text>
+<text transform="matrix(3.56422 0 -0 3.56422 321.31 685.772)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >6</text>
+<text transform="matrix(3.56422 0 -0 3.56422 195.079 85.7937)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >7</text>
+<text transform="matrix(3.56422 0 -0 3.56422 195.079 685.77)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >7</text>
+<text transform="matrix(3.56422 0 -0 3.56422 68.8438 85.7948)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >8</text>
+<text transform="matrix(3.56422 0 -0 3.56422 68.8438 685.772)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >8</text>
+</g>
+<g clip-path="url(#clipId3)" fill="none" stroke="rgb(0,0,0)" stroke-width="0.7" >
+<polyline points="21.9199,547.36 17.1677,547.36 " />
+<polyline points="1002.08,547.36 1006.83,547.36 " />
+<polyline points="21.9199,220.64 17.1677,220.64 " />
+<polyline points="1002.08,220.64 1006.83,220.64 " />
+</g>
+<g clip-path="url(#clipId3)" fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="0" >
+<text transform="matrix(3.56422 0 -0 3.56422 17.4337 630.822)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >A</text>
+<text transform="matrix(3.56422 0 -0 3.56422 1003.53 630.822)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >A</text>
+<text transform="matrix(3.56422 0 -0 3.56422 17.502 467.462)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >B</text>
+<text transform="matrix(3.56422 0 -0 3.56422 1003.6 467.462)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >B</text>
+<text transform="matrix(3.56422 0 -0 3.56422 17.4782 304.103)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >C</text>
+<text transform="matrix(3.56422 0 -0 3.56422 1003.58 304.103)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >C</text>
+<text transform="matrix(3.56422 0 -0 3.56422 17.284 140.742)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >D</text>
+<text transform="matrix(3.56422 0 -0 3.56422 1003.38 140.742)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >D</text>
+</g>
+<g clip-path="url(#clipId3)" fill="none" stroke="rgb(0,0,0)" stroke-width="0.35" >
+<polyline points="771.891,617.902 853.571,617.902 " />
+<polyline points="771.891,629.04 853.571,629.04 " />
+<polyline points="771.891,640.178 853.571,640.178 " />
+<polyline points="771.891,651.316 853.571,651.316 " />
+<polyline points="771.891,662.455 853.571,662.455 " />
+<polyline points="823.869,681.018 823.869,606.764 " />
+<polyline points="987.229,673.593 987.229,658.742 " />
+<polyline points="942.676,673.593 942.676,681.018 " />
+<polyline points="898.124,673.593 898.124,658.742 " />
+<polyline points="886.837,673.593 886.837,681.018 " />
+<polyline points="868.422,673.593 868.422,658.742 " />
+<polyline points="853.571,673.593 771.891,673.593 " />
+<polyline points="1002.08,673.593 853.571,673.593 " />
+<polyline points="1002.08,658.742 853.571,658.742 " />
+<polyline points="853.571,625.179 1002.08,625.179 " />
+<polyline points="853.571,681.018 853.571,606.764 " />
+</g>
+<g clip-path="url(#clipId3)" fill="none" stroke="rgb(0,0,0)" stroke-width="0.5" >
+<polyline points="1002.08,606.764 771.891,606.764 " />
+<polyline points="1002.08,681.018 1002.08,606.764 " />
+<polyline points="771.891,681.018 1002.08,681.018 " />
+<polyline points="771.891,606.764 771.891,681.018 " />
+</g>
+<g clip-path="url(#clipId3)" fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="0" >
+<text transform="matrix(2.97018 0 -0 2.97018 943.565 680.065)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >SHEET</text>
+<text transform="matrix(3.56422 0 -0 3.56422 957.104 680.064)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >1</text>
+<text transform="matrix(2.97018 0 -0 2.97018 962.838 680.064)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >OF</text>
+<text transform="matrix(3.56422 0 -0 3.56422 969.392 680.064)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >1</text>
+<text transform="matrix(2.97018 0 -0 2.97018 772.779 610.625)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >DRAWN</text>
+<text transform="matrix(2.97018 0 -0 2.97018 772.782 621.817)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >CHECKED</text>
+<text transform="matrix(2.97018 0 -0 2.97018 772.782 632.964)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >QA</text>
+<text transform="matrix(2.97018 0 -0 2.97018 772.779 644.093)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >MFG</text>
+<text transform="matrix(2.97018 0 -0 2.97018 772.763 655.24)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >APPROVED</text>
+<text transform="matrix(3.71273 0 -0 3.71273 772.781 616.934)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >zavrel</text>
+<text transform="matrix(3.71273 0 -0 3.71273 824.751 616.932)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >14.11.2023</text>
+<text transform="matrix(2.97018 0 -0 2.97018 899.012 662.665)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >DWG NO</text>
+<text transform="matrix(5.34633 0 -0 5.34633 899.011 671.632)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >base_frame_3</text>
+<text transform="matrix(2.97018 0 -0 2.97018 854.46 629.04)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >TITLE</text>
+<text transform="matrix(2.97018 0 -0 2.97018 856.807 662.656)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >SIZE</text>
+<text transform="matrix(5.34633 0 -0 5.34633 858.498 671.068)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >D</text>
+<text transform="matrix(2.97018 0 -0 2.97018 854.46 677.507)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >SCALE</text>
+<text transform="matrix(2.97018 0 -0 2.97018 991.003 662.603)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >REV</text>
+<text transform="matrix(3.56422 0 -0 3.56422 875.794 680.126)" font-family="Tahoma,&apos;sans-serif&apos;" font-size="1.37528" >1 : 1</text>
+</g>
+</svg>

@@ -101,11 +101,34 @@ for(i=1:size(cables, 1))
     text((cables(i, 1)+cables(i, 4))/2, (cables(i, 2)+cables(i, 5))/2, (cables(i, 3)+cables(i, 6))/2, ['c',num2str(i)])
 end;
 
-%% cable lengths
-lengths=[];
+%% figure - plot POINTS A, B, G
+move_z=-0.01;
+text(A1(1), A1(2), A1(3)+move_z, 'A_1');
+text(A2(1), A2(2), A2(3)+move_z, 'A_2');
+text(A3(1), A3(2), A3(3)+move_z, 'A_3');
+text(A4(1), A4(2), A4(3)+move_z, 'A_4');
+move_z=+0.01;
+text(B1(1), B1(2), B1(3)+move_z, 'B_1');
+text(B2(1), B2(2), B2(3)+move_z, 'B_2');
+text(B3(1), B3(2), B3(3)+move_z, 'B_3');
+text(B4(1), B4(2), B4(3)+move_z, 'B_4');
+move_z=+0.01;
+text(G1(1), G1(2), G1(3)+move_z, 'G_1');
+text(G2(1), G2(2), G2(3)+move_z, 'G_2');
+text(G3(1), G3(2), G3(3)+move_z, 'G_3');
+text(G4(1), G4(2), G4(3)+move_z, 'G_4');
+text(G5(1), G5(2), G5(3)+move_z, 'G_5');
+text(G6(1), G6(2), G6(3)+move_z, 'G_6');
+text(G7(1), G7(2), G7(3)+move_z, 'G_7');
+text(G8(1), G8(2), G8(3)+move_z, 'G_8');
+text(G9(1), G9(2), G9(3)+move_z, 'G_9');
+
+
+%% cables lengths in initial position
+lengths_0=[];
 for(i=1:size(cables, 1))
     l_i=sqrt((cables(i, 1) - cables(i, 4))^2 + (cables(i, 2) - cables(i, 5))^2 + (cables(i, 3) - cables(i, 6))^2);
-    lengths=[lengths; l_i];
+    lengths_0=[lengths_0; l_i];
 end;
 
 

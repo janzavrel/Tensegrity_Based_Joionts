@@ -1,10 +1,15 @@
 %%% 3D tensegrity robot Valasek like %%%
 
+%bars or cables?
+%bar_or_cable=1; %BARS
+%bar_or_cable=0; %CABLES
+bar_or_cable=1; %BARS
+
 % lengths of bars
-lf=0.09*ones(9, 1);
+lf=0.05*ones(9, 1);
 l=[0.08 0.08 0.08 0.15]';
 
-% dimensions of bars amd mass properties
+% dimensions of bars and mass properties
 a=0.015; % square cut - dimension [m]
 rho=2000; % density [kg/m3]
 

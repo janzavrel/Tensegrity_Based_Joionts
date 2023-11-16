@@ -1,9 +1,8 @@
 %%% 3D tensegrity robot Valasek like %%%
 
 %bars or cables?
+bar_or_cable=0; %CABLES
 %bar_or_cable=1; %BARS
-%bar_or_cable=0; %CABLES
-bar_or_cable=1; %BARS
 
 % lengths of bars
 lf=0.05*ones(9, 1);
@@ -14,8 +13,8 @@ a=0.015; % square cut - dimension [m]
 rho=2000; % density [kg/m3]
 
 % springs & thier dumping
-kk=500; % stiffness [N/m/m]
-bb=1; % dumping coeff. [N/m/s]
+kk=5e4; % stiffness [N/m/m]
+bb=100; % dumping coeff. [N/m/s]
 
 dist=0.05; %distance parameter
 %frame group 1

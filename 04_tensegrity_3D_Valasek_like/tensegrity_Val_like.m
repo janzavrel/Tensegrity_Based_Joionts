@@ -131,5 +131,6 @@ for(i=1:size(cables, 1))
     lengths_0=[lengths_0; l_i];
 end;
 
-
+%Predepnuti lan
+lengths_0=0.9*lengths_0;
 

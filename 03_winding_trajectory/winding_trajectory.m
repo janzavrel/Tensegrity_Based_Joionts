@@ -66,13 +66,15 @@ for(i=1:size(vysledky, 1))
 end;
 
 figure(20);
-hold on
-plot(vysledky(:,1), vysledky(:,3))
+hold on;
+grid on;
+plot(vysledky(:,1), vysledky(:,3), 'LineWidth', 3)
 title('Cable length deviation');
 
 figure(30);
-hold on
-plot(vysledky(:,1), ((pi/2-vysledky(:,1)+vysledky(:,2)-pi/2))*180/pi)
+hold on;
+grid on;
+plot(vysledky(:,1), ((pi/2-vysledky(:,1)+vysledky(:,2)-pi/2))*180/pi, 'LineWidth', 3)
 title('Top platform rotation');
 
 

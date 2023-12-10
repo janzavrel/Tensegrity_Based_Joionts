@@ -1,8 +1,12 @@
 %%% 3D tensegrity robot Valasek like %%%
 
 %bars or cables?
-bar_or_cable=0; %CABLES
-%bar_or_cable=1; %BARS
+%bar_or_cable=0; %CABLES
+bar_or_cable=1; %BARS
+
+%force coefficient - direction of the internal force 
+%force_coefficient=1; %
+force_coefficient=-1; %
 
 % lengths of bars
 lf=0.05*ones(9, 1);

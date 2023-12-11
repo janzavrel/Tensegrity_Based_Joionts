@@ -20,8 +20,8 @@ rho=2700; % density [kg/m3]
 kk=5e4; % stiffness [N/m/m]
 bb=100; % dumping coeff. [N/m/s]
 
-k_all=kk*ones(size(l0_all, 1), 1);
-b_all=bb*ones(size(l0_all, 1), 1);
+k_all=kk*ones(6, 1);
+b_all=bb*ones(6, 1);
 
 dist=0.05; %distance parameter
 %frame group 1

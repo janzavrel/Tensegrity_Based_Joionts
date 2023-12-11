@@ -1,27 +1,9 @@
 %%% 3D tensegrity robot Valasek like %%%
 
-%bars or cables, bar=1, cable=0?
-%bar_or_cable=0; %CABLES
-bar_or_cable=1; %BARS
-
-%force coefficient - direction of the internal force 
-%force_coefficient=1; %
-force_coefficient=-1; %
 
 % lengths of bars
 lf=0.05*ones(9, 1);
 l=[0.08 0.08 0.08 0.15]';
-
-% dimensions of bars and mass properties
-a=0.015; % square cut - dimension [m]
-rho=2700; % density [kg/m3]
-
-% springs & thier dumping
-kk=5e4; % stiffness [N/m/m]
-bb=100; % dumping coeff. [N/m/s]
-
-k_all=kk*ones(size(l0_all, 1), 1);
-b_all=bb*ones(size(l0_all, 1), 1);
 
 dist=0.05; %distance parameter
 %frame group 1

@@ -1,1 +1,6 @@
 * New concept of the revolute and universal joint based on the tensegrity structure and their analysis
+
+** K cemu to je dobre
+	- nahrada klasicke vazby tensegritickou struktorou, ktera je lehka
+	- vibroizolace lany
+	- pohony na ramu

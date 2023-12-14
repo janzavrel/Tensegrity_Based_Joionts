@@ -17,5 +17,5 @@ num_cables=8;
 kk=1e4;
 k_all=kk*ones(num_cables, 1);
 %cable damping
-bb=1;
+bb=10;
 b_all=bb*ones(num_cables, 1);

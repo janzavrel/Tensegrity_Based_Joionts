@@ -14,8 +14,8 @@ l3=h+b/2;
 %% physical parameters
 num_cables=8;
 %cable stiffness
-kk=1e4;
+kk=2.5e5;
 k_all=kk*ones(num_cables, 1);
 %cable damping
-bb=10;
+bb=30;
 b_all=bb*ones(num_cables, 1);

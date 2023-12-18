@@ -4,3 +4,9 @@
 	- nahrada klasicke vazby tensegritickou struktorou, ktera je lehka
 	- vibroizolace lany
 	- pohony na ramu
+
+JOURNAL:  Mechanics Based Design of Structures and Machines 
+https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=lmbd20#about-the-journal
+https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=lmbd20
+https://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=lmbd20
+https://authorservices.taylorandfrancis.com/publishing-your-research/writing-your-paper/

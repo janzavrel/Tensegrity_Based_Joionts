@@ -1,4 +1,4 @@
-function l0_all=cables_l0(fix, fiz, w, h, b)
+function [l0_all, xE3, yE3, zE3]=cables_l0(fix, fiz, w, h, b)
 %l1=|A2U3|
 %l2=|B2V3|
 %l3=|V3V2|
@@ -17,6 +17,9 @@ h1=h+b/2;
 l3=h+b/2;
 T13=Ty(h1)*Tfiz(fiz)*Tfix(fix);
 r1E3=T13*[0, h+b/2, 0, 1]';
+xE3=r1E3(1);
+yE3=r1E3(2);
+zE3=r1E3(3);
 r1A3=T13*[w/2, h+b/2, 0, 1]';
 r1B3=T13*[-w/2, h+b/2, 0, 1]';
 r1V3=T13*[0, -b/2, w/2, 1]';

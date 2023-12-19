@@ -5,6 +5,19 @@
 	- vibroizolace lany
 	- pohony na ramu
 
+** KLADY
+	- lehke
+	- predepinantelne
+	- laditelne frekvence
+	- pohony muzou byt pri vhodne volbe konstrukce na ramu
+** ZAPORY
+	- predepinani
+	- citlivost na konfuguraci
+	- relaxace lan
+	- casto nutnost redundance (ale je i klad teto vlastnosti)
+	- maly rozsah
+	- nelinearni a nerovnomerne vlastnosti
+
 JOURNAL:  Mechanics Based Design of Structures and Machines 
 https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=lmbd20#about-the-journal
 https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=lmbd20

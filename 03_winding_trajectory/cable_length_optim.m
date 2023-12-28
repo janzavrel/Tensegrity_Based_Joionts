@@ -32,7 +32,7 @@ l2=sqrt((xB-xD)^2 + (yB-yD)^2);
 l=l1+l2;
 
 %%optim kriterium
-krit=l0^2-l^2;
+krit=sqrt(l0^2-l^2);
 if(krit<=0)
     krit=1e5;
 end;

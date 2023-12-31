@@ -3,14 +3,18 @@
 clear all, close all, clc;
 
 syms y fix fiz h1 l3
+syms x1M y1M z1M
 
-%% umiversal joint description
+%% universal joint description
 T13=Ty(h1)*Tfiz(fiz)*Tfix(fix)*Ty(l3);
 r1M=T13*[0 0 0 1]';
 
 % x1M=-l3*cos(fix)*sin(fiz)
 % y1M=h1 + l3*cos(fix)*cos(fiz)
 % z1M=l3*sin(fix)
+
+%% Inverse kinematics
+simplify(T13^-1)*[x1M; y1M; z1M; 1]
 
 %% Operational space of the universal joint
 parameters_tensegrity_joint;
@@ -49,10 +53,11 @@ for(row=1:size(fix, 1))
 end;
 sc = mesh(XM,ZM,YM);
 view(-53, 31)
-title('Workspace of the point M', 'Interpreter','LaTex');
-xlabel('$x_M$ [m]', 'Interpreter','LaTex');
-ylabel('$y_M$ [m]', 'Interpreter','LaTex');
-zlabel('$z_M$ [m]', 'Interpreter','LaTex');
+title('Workspace of the point $E_3$', 'Interpreter','LaTex', 'FontSize', 16);
+xlabel('$x_M$ [m]', 'Interpreter','LaTex', 'FontSize', 16);
+ylabel('$y_M$ [m]', 'Interpreter','LaTex', 'FontSize', 16);
+zlabel('$z_M$ [m]', 'Interpreter','LaTex', 'FontSize', 16);
+print('Workspace_z_E3_x_y_z', '-dpng', '-r600');
 
 figure(30);
 [fix,fiz] = meshgrid(-fi_max:fi_step:fi_max);
@@ -71,7 +76,8 @@ for(row=1:size(fix, 1))
 end;
 sc = mesh(fix,fiz,YM);
 view(-38, 37)
-title('Workspace of the point M', 'Interpreter','LaTex');
-xlabel('$\varphi_x$ [rad]', 'Interpreter','LaTex');
-ylabel('$\varphi_y$ [rad]', 'Interpreter','LaTex');
-zlabel('$z_M$ [m]', 'Interpreter','LaTex');
+title('Workspace of the point $E_3$', 'Interpreter','LaTex', 'FontSize', 16);
+xlabel('$\varphi_x$ [rad]', 'Interpreter','LaTex', 'FontSize', 16);
+ylabel('$\varphi_y$ [rad]', 'Interpreter','LaTex', 'FontSize', 16);
+zlabel('$z_{E_3}$ [m]', 'Interpreter','LaTex', 'FontSize', 16);
+print('Workspace_z_E3_fix_fiy', '-dpng', '-r600');

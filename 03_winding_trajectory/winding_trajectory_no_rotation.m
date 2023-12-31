@@ -68,8 +68,8 @@ for(i=1:size(vysledky, 1))
   plot([xB, xD], [yB, yD], 'r-.', 'LineWidth', 2);
   text(xA+0.01, yA, 'A', FontSize=12, FontWeight='bold');
   text(xB-0.02, yB, 'B', FontSize=12, FontWeight='bold');
-  text(xC-0.02, yC, 'C', FontSize=12, FontWeight='bold');
-  text(xD+0.01, yD, 'D', FontSize=12, FontWeight='bold');
+  text(xC-0.02, yC, 'U', FontSize=12, FontWeight='bold');
+  text(xD+0.01, yD, 'V', FontSize=12, FontWeight='bold');
   text(0.01, 0, 'O', FontSize=12, FontWeight='bold');
   xlabel('x [m]', 'Interpreter','LaTex', 'FontSize', 16);
   ylabel('y [m]', 'Interpreter','LaTex', 'FontSize', 16);
